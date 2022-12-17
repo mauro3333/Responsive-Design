@@ -32,7 +32,7 @@ header {
     height: 100%;
     font-weight: bold;
     font-size: 120%;
-    background-image: url("/assets/images/1.jpg");
+    background-image: url("../images/1.jpg");
     /* background-image: url("https://images.pexels.com/photos/803226/pexels-photo-803226.jpeg?auto=compress&cs=tinysrgb&w=1600"); */
     background-repeat: no-repeat;
     background-position: center;
